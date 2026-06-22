@@ -112,10 +112,7 @@ To update the live site:
 ```text
 BasicsofAdvaitaVedanta.github.io/
 ├── index.html
-├── assets/
-├── css/
-├── js/
-├── images/
+├── previous_versions/
 └── README.md
 ```
 
