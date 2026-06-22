@@ -64,6 +64,7 @@ The project is intended for:
 - Mahāvākyas
 - Self-inquiry
 - Non-dual awareness
+- And much more brom basic to advance 
 
 ## Tech Stack
 
